@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jacqueline9hoo199
+- 👀 I’m interested in Web developer. I’m currently learning MERN stack.
+- 🌱 Striving to create responsive, scalable web applications to meet user needs.
